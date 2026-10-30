@@ -4,22 +4,22 @@
 
 <p align="center">
   <a href="https://github.com/Rajabaliyev01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Javohir+%F0%9F%91%8B;Building+Modern+Web+%26+Mobile+Apps;React+19+%7C+Firebase+%7C+Swift+%7C+Java;Always+learning+and+shipping!+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=450&lines=Hi+there!+I'm+Javohir+%F0%9F%91%8B;Full-Stack+Web+%26+Mobile+Developer;Building+with+React+19%2C+Firebase%2C+Swift+%26+Java;Always+learning%2C+building%2C+and+shipping!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Men Haqimda (About Me)
+### 👨‍💻 About Me
 
-- 🇺🇿 **O'zbekistondanman** — Veb va mobil ilovalar ishlab chiquvchi dasturchi.
-- 💼 Zamonaviy **React, Firebase, Swift** texnologiyalari va **AI vositalari** yordamida tezkor, sifatli veb-ilovalarni yaratish bilan shug'ullanaman.
-- 🎯 Hozirda asosiy e'tiborim: **Frontend & Backend (BaaS)**, **iOS (SwiftUI)** va **Mahsulot boshqaruvi**.
-- ⚡ Yuqori unumdorlik, chiroyli UI/UX va toza kod yozishga intilaman.
+- 🇺🇿 Based in **Uzbekistan**, passionate about engineering intuitive web and mobile solutions.
+- 💼 Working as a **Software Developer** focused on building rapid, modern web applications with **React 19**, **Firebase (Firestore & Auth)**, and **AI-powered workflows**.
+- 📱 Experienced in **iOS Development with SwiftUI** (completed `#100DaysOfSwiftUI` projects) and core software engineering fundamentals in **Java**.
+- ⚡ Strong focus on clean architecture, modern UI/UX design, and shipping production-ready products.
 
 ---
 
-### 🛠 Texnologiyalar va Vositalar (Tech Stack)
+### 🛠 Tech Stack & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -34,33 +34,33 @@
 
 ---
 
-### 🌟 Asosiy Loyihalar (Featured Projects)
+### 🌟 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚀 Task Flow (Mini ToDo App)</h3>
+      <h3 align="center">🚀 Task Flow — Productivity Web App</h3>
       <p align="center">
-        <b>React 19 + Firebase Firestore & Auth + Vite</b>
+        <b>React 19 • Firebase Firestore & Auth • Vite</b>
       </p>
       <p>
-        Real vaqt rejimida ishlovchi unumdorlik ilovasi: Sekundnomer, Pomodoro taymeri, avtorizatsiya, kategoriyalar, konfetti va audio effektlar.
+        A high-performance real-time productivity app featuring Google & Guest Authentication, an interactive Stopwatch & Pomodoro focus timer, deadline tracking, task completion duration analytics, and gamified animations.
       </p>
       <p align="center">
-        <a href="https://mini-todo-app-two.vercel.app"><b>🌐 Jonli Sayt (Live Demo)</b></a> • 
-        <a href="https://github.com/Rajabaliyev01/Mini-ToDo-app"><b>💻 Kod</b></a>
+        <a href="https://mini-todo-app-two.vercel.app"><b>🌐 Live Demo</b></a> • 
+        <a href="https://github.com/Rajabaliyev01/Mini-ToDo-app"><b>💻 Source Code</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📱 iOS SwiftUI Loyihalari</h3>
+      <h3 align="center">📱 iOS SwiftUI Applications</h3>
       <p align="center">
-        <b>#100DaysOfSwiftUI (Paul Hudson)</b>
+        <b>#100DaysOfSwiftUI Challenge</b>
       </p>
       <p>
-        Swift va SwiftUI freymvorkida yaratilgan mobil ilovalar to'plami: <b>iExpense</b>, <b>BucketList</b>, <b>MoonShot</b>, <b>CupcakeCorner</b>, <b>BookWorm</b>.
+        A suite of native iOS apps exploring state management, animations, and modern Swift architecture: <b>iExpense</b>, <b>BucketList</b>, <b>MoonShot</b>, <b>CupcakeCorner</b>, and <b>BookWorm</b>.
       </p>
       <p align="center">
-        <a href="https://github.com/Rajabaliyev01?tab=repositories&q=&type=&language=swift"><b>📱 Repozitoriyalar</b></a>
+        <a href="https://github.com/Rajabaliyev01?tab=repositories&q=&type=&language=swift"><b>📱 View iOS Repositories</b></a>
       </p>
     </td>
   </tr>
@@ -68,7 +68,7 @@
 
 ---
 
-### 📊 GitHub Statistika (GitHub Stats)
+### 📊 GitHub Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajabaliyev01&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=10b981" alt="Javohir's GitHub stats" height="160" />
@@ -82,5 +82,5 @@
 ---
 
 <p align="center">
-  <i>"Har bir yangi loyiha — bu o'sish va yangi imkoniyatlar kalitidir."</i> 🚀
+  <i>"Every project is an opportunity to learn, innovate, and build impactful software."</i> 🚀
 </p>
