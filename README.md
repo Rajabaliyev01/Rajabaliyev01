@@ -1,8 +1,3 @@
-# Javohir Rajabaliyev — GitHub Profile README
-
-Quyidagi kodni profilingizning shaxsiy README repozitoriyasiga (`https://github.com/Rajabaliyev01/Rajabaliyev01/blob/main/README.md`) qo'yishingiz mumkin. Unda LinkedIn havolasi va to'g'ri aloqa ma'lumotlari qo'shilgan.
-
-```markdown
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0b1220,55:172554,100:0891b2&height=220&section=header&text=Javohir%20Rajabaliyev&fontSize=44&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Frontend%20%2F%20Full-Stack%20Engineer%20%7C%20React%20%7C%20TypeScript%20%7C%20Firebase&descAlignY=60&descSize=15" alt="Javohir Rajabaliyev — Full-Stack Engineer" />
 
@@ -91,4 +86,3 @@ I am actively open to discussing software development roles, contract engagement
 - **Email:** [javohirrajabaliyev@gmail.com](mailto:javohirrajabaliyev@gmail.com)
 - **LinkedIn:** [linkedin.com/in/Rajabaliyev01](https://linkedin.com/in/Rajabaliyev01)
 - **Telegram:** [@Rajabaliyev_01](https://t.me/Rajabaliyev_01)
-```
