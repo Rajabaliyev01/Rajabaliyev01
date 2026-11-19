@@ -60,10 +60,10 @@
       <a href="https://mini-to-do-app-two.vercel.app" target="_blank"><strong>Live Demo ↗</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Rajabaliyev01/orders-app-bot">🤖 OrdersApp Telegram Bot</a></h3>
-      <p>Automated backend bot providing instant order alerts, order query status, and vendor dispatch notifications connected to OrdersApp Firestore.</p>
-      <p><strong>Stack:</strong> Node.js · Telegram Bot API · Firebase Admin SDK</p>
-      <a href="https://github.com/Rajabaliyev01/orders-app-bot" target="_blank"><strong>Source Code ↗</strong></a>
+      <h3><a href="https://github.com/Rajabaliyev01/java-game-2048">🎮 2048 Desktop Game (Java Swing)</a></h3>
+      <p>Cyber Blue themed desktop edition of 2048 built with clean OOP and MVC architecture: custom 2D rendering with 60 FPS animations, keyboard event handling, and high-score persistence.</p>
+      <p><strong>Stack:</strong> Java 21 · Swing 2D · MVC Architecture · OOP</p>
+      <a href="https://github.com/Rajabaliyev01/java-game-2048" target="_blank"><strong>Source Code ↗</strong></a>
     </td>
   </tr>
 </table>
