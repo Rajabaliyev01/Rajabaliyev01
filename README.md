@@ -13,7 +13,7 @@
 
 - 🔭 **Current Focus:** Building performant web applications with React 19, TypeScript, and modern state architectures.
 - 💼 **Open to:** Full-time & Contract **Remote Software Engineering** roles worldwide.
-- 🌱 **Expanding:** Deepening iOS engineering (SwiftUI) and backend microservices.
+- 🌱 **Expanding:** Deepening iOS engineering (SwiftUI), backend microservices, and Automated Testing in Java (EPAM Campus).
 
 ---
 
